@@ -1,18 +1,33 @@
 # Logotipos e Ícones para GitHub
 
 ##
-<img src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=f2eeee"> </a>
-<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=f2eeee">
- <img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=f2eeee">
- <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=f2eeee">
- <img src="https://icongr.am/devicon/mysql-original.svg?size=85&color=f2eeee">
-
+<img src="https://icongr.am/devicon/java-plain-wordmark.svg?size=77&color=f2eeee"> </a>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=77&color=f2eeee">
+ <img src="https://icongr.am/devicon/linkedin-original.svg?size=77&color=f2eeee">
+ <img src="https://icongr.am/devicon/mongodb-original.svg?size=77&color=f2eeee">
+ <img src="https://icongr.am/devicon/mysql-original.svg?size=77&color=f2eeee">
+ <img src="https://icongr.am/devicon/facebook-original.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/git-original.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/git-plain.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/git-plain-wordmark.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/gitlab-original.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=50&color=currentColor">
+ <img src="https://icongr.am/devicon/gitlab-plain.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/gitlab-plain-wordmark.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/java-original.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/postgresql-original.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/postgresql-plain.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/postgresql-plain-wordmark.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/python-original.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/python-original-wordmark.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/python-plain.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/python-plain-wordmark.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/redis-original-wordmark.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/redis-plain.svg?size=77&color=currentColor">
+ <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=77&color=f2eeee">
  
- <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=f2eeee">
- <img src="
- <img src="
- <img src="
- <img src="
   
   ##
 
