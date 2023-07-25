@@ -1,13 +1,6 @@
-# Logotipos e Ícones para GitHub
-</div>
-<br>
-    <a href="https://www.nttdata.com" target="_blank"><img src="https://user-images.githubusercontent.com/93287829/159989626-0ee1728a-a76b-44a8-b54b-1ed3063ac214.png" width="200px" target="_blank"></a> 
- 
+# Logotipos e Ícones para GitHub  </a>
 
-</div>
 
-  ##
-<div> 
  <div align="center">
   <a href="https://github.com/emerson-fabianovieira">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=emerson-fabianovieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
@@ -124,24 +117,29 @@ Campo para comentarios
  <img src="https://icongr.am/devicon/mongodb-original.svg?size=77&color=f2eeee">
  <img src="https://icongr.am/devicon/mysql-original.svg?size=77&color=f2eeee">
  <img src="https://icongr.am/devicon/facebook-original.svg?size=77&color=currentColor">
- <img src="https://icongr.am/devicon/git-original.svg?size=77&color=currentColor">
+ 
+ <img src="https://icongr.am/devicon/git-original.svg?size=77&color=currentColor">  </a>
  <img src="https://icongr.am/devicon/git-plain.svg?size=77&color=currentColor">
  <img src="https://icongr.am/devicon/git-plain-wordmark.svg?size=77&color=currentColor">
  <img src="https://icongr.am/devicon/gitlab-original.svg?size=77&color=currentColor">
  <img src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=50&color=currentColor">
  <img src="https://icongr.am/devicon/gitlab-plain.svg?size=77&color=currentColor">
  <img src="https://icongr.am/devicon/gitlab-plain-wordmark.svg?size=77&color=currentColor">
- <img src="https://icongr.am/devicon/java-original.svg?size=77&color=currentColor">
+ 
+ <img src="https://icongr.am/devicon/java-original.svg?size=77&color=currentColor">  </a>
  <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=77&color=currentColor">
- <img src="https://icongr.am/devicon/postgresql-original.svg?size=77&color=currentColor">
+ 
+ <img src="https://icongr.am/devicon/postgresql-original.svg?size=77&color=currentColor">  </a>
  <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=77&color=currentColor">
  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=77&color=currentColor">
  <img src="https://icongr.am/devicon/postgresql-plain-wordmark.svg?size=77&color=currentColor">
- <img src="https://icongr.am/devicon/python-original.svg?size=77&color=currentColor">
+ 
+ <img src="https://icongr.am/devicon/python-original.svg?size=77&color=currentColor">  </a>
  <img src="https://icongr.am/devicon/python-original-wordmark.svg?size=77&color=currentColor">
  <img src="https://icongr.am/devicon/python-plain.svg?size=77&color=currentColor">
  <img src="https://icongr.am/devicon/python-plain-wordmark.svg?size=77&color=currentColor">
- <img src="https://icongr.am/devicon/redis-original-wordmark.svg?size=77&color=currentColor">
+ 
+ <img src="https://icongr.am/devicon/redis-original-wordmark.svg?size=77&color=currentColor">  </a>
  <img src="https://icongr.am/devicon/redis-plain.svg?size=77&color=currentColor">
  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=77&color=f2eeee">
  
@@ -150,11 +148,11 @@ Campo para comentarios
 
 ## Skills
 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a>
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> </a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
 
 <!-- <br> -->
 <!-- <br> -->
